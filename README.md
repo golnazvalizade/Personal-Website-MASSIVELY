@@ -2,7 +2,7 @@
 # Website template
 
 
-![IMG](./image/SRC1.jpg)
-![IMG](./image/SRC2.jpg)
-![IMG](./image/SRC3.jpg)
+![IMG](./images/SRC1.jpg)
+![IMG](./images/SRC2.jpg)
+![IMG](./images/SRC3.jpg)
 
